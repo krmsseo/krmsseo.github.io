@@ -2,7 +2,7 @@
 
 ## 프로그래밍언어
 
-[1. 강의소개 및 Settings]('https://krmsseo.github.io/01_프로그래밍 언어와 파이썬.pptx')
+[1. 강의소개 및 Settings]("https://krmsseo.github.io/01_프로그래밍 언어와 파이썬.pptx")
 
 [2. 변수와 자료형]('https://krmsseo.github.io/02_변수와 자료형.pptx')
 
