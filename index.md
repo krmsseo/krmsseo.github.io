@@ -1,8 +1,5 @@
 # Welcome to Moonseog's GitHub Pages
 
-
-
-
 ## 프로그래밍언어
 
 [1. 강의소개 및 Settings]('https://krmsseo.github.io/01_프로그래밍 언어와 파이썬.pptx')
@@ -39,11 +36,6 @@
 
 
 
-
-
-You can use the [editor on GitHub](https://github.com/krmsseo/krmsseo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 ### Jekyll Themes
