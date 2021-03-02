@@ -1,5 +1,41 @@
 # Welcome to Moonseog's GitHub Pages
 
+
+
+
+## 프로그래밍언어
+1. 강의소개 및 Settings
+2. 변수와 자료형
+3. 화면 입출력과 리스트
+4. 조건문과 반복문
+5. 함수
+6. 문자열 처리
+7. 자료구조
+8. 파이썬 스타일 코드
+9. 객체지향프로그래밍
+10. 모듈과 패키지
+11. 예외철 및 파일 다루기
+12. CSV와 로그 처리
+13. 웹 스크래핑
+14. XML, JSON 처리
+
+
+
+
+## 대학생활과 금융
+
+
+
+
+## 프레젠테이션 활용
+
+
+
+
+## 창의적사고와 코딩
+
+
+
 You can use the [editor on GitHub](https://github.com/krmsseo/krmsseo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
