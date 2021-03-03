@@ -1,5 +1,5 @@
 ## 프로그래밍언어
-[강의계획서]("https://krmsseo.github.io/강의계획서.pdf")
+[강의계획서]("http://krmsseo.github.io/강의계획서.pdf")
 
 ## 대학생활과 금융
 
