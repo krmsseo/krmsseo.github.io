@@ -1,5 +1,3 @@
-# Welcome to Moonseog's GitHub Pages
-
 ## 프로그래밍언어
 
 ## 대학생활과 금융
